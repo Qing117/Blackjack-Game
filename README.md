@@ -1,4 +1,4 @@
-# Game_Blackjack
+# Blackjack Game
 - The deck is unlimited in size.
 - There are no jokers.
 - The Jack/Queen/King all count as 10.
